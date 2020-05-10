@@ -13,3 +13,5 @@ And also it is the python version for [tldr-News](https://hackernoon.com/finding
 ## 2.N-Gram:
 used to calculate the frequency of words in a document, and including the rank comparasion for two related dataset
 
+## 3.TF_sample:
+Part of the TF_IDF on sentences frequency
