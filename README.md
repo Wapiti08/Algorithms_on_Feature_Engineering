@@ -15,3 +15,6 @@ used to calculate the frequency of words in a document, and including the rank c
 
 ## 3.TF_sample:
 Part of the TF_IDF on sentences frequency
+
+## 4.TF_IDF_Variants:
+The achievement of four variants on TF_IDF, more accurate and efficient
