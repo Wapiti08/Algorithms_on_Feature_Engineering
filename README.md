@@ -18,3 +18,6 @@ Part of the TF_IDF on sentences frequency
 
 ## 4.TF_IDF_Variants:
 The achievement of four variants on TF_IDF, more accurate and efficient
+
+## 5.Elbow.py
+The realization of Within-Cluster-Sum of squares and Silhouette methods to determine the optimal k for KMeans
