@@ -21,3 +21,6 @@ The achievement of four variants on TF_IDF, more accurate and efficient
 
 ## 5.Elbow.py
 The realization of Within-Cluster-Sum of squares and Silhouette methods to determine the optimal k for KMeans
+
+# Reference:
+[How to Determine the Optimal K for K-Means](https://medium.com/analytics-vidhya/how-to-determine-the-optimal-k-for-k-means-708505d204eb)
